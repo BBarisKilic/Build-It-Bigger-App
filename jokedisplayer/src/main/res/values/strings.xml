@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuildItBiggerApp</string>
+    <string name="laughing_emoji">Laughing Emoji</string>
+    <string name="joke_retrieve_error">Sorry,couldn\'t find jokes.</string>
+</resources>

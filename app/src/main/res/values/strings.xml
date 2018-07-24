@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuildItBiggerApp</string>
+    <string name="informations">Press the button for funny jokes!</string>
+    <string name="tell_joke">Tell Joke</string>
+</resources>
