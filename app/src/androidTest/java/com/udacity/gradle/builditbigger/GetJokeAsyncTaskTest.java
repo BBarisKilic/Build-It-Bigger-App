@@ -4,6 +4,7 @@ import android.support.test.runner.AndroidJUnit4;
 
 import static org.hamcrest.Matchers.isEmptyString;
 import static org.hamcrest.Matchers.not;
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThat;
 
 import org.junit.runner.RunWith;
